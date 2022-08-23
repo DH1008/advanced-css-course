@@ -14,5 +14,14 @@ Dark green: #28b485
 }
 
 body {
-    font
+  font-family: 'lato', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #777;
+}
+
+.header {
+  height: 95vh;
+  background-image: url(../img/hero.jpg);
 }
